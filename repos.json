@@ -7,7 +7,7 @@
       "device": "cheeseburger",
       "defconfig": "lineage_oneplus5_defconfig"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://github.com/kdrag0n/proton-clang",
@@ -47,10 +47,10 @@
       "name": "mi10u",
       "repo": "https://github.com/AcmeUI-Devices/android_kernel_xiaomi_cas",
       "branch": "taffy",
-      "device": "cas",
+      "device": "mi10u",
       "defconfig": "cas_defconfig"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://github.com/kdrag0n/proton-clang",
